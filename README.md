@@ -1,6 +1,5 @@
 # Rise Tech Event Booking App
 
-
 ## Overview
 
 Rise Tech Event Booking is a mobile application that allows users to browse, book, and manage event bookings. The app features a clean, user-friendly interface with rich animations and seamless navigation between screens.
@@ -16,21 +15,32 @@ Rise Tech Event Booking is a mobile application that allows users to browse, boo
 
 ## Download APK
 
-You can download the latest version of the APK [here]([https://drive.google.com/file/d/1YgCUrDAP6Adfm9oc4ZCuMJst0JL28cfN/view?usp=sharing]).
+You can download the latest version of the APK [here](https://drive.google.com/file/d/1YgCUrDAP6Adfm9oc4ZCuMJst0JL28cfN/view?usp=sharing).
 
 ## Screenshots
 
 ### Home Screen
-<img src="screenshots/home_screen.png" alt="Home Screen" width="100">
+<img src="screenshots/home_screen.png" alt="Home Screen" width="200">
 
 ### Home Screen Filter
-<img src="screenshots/home_screen_filter.png" alt="Home Screen Filter" width="100">
+<img src="screenshots/home_screen_filter.png" alt="Home Screen Filter" width="200">
 
 ### Event Details Screen
-<img src="screenshots/event_details_screen.png" alt="Event Details Screen" width="100">
+
+<p align="center">
+  <img src="screenshots/event_details_screen_first.png" alt="Event Details Screen 1" width="200">
+  <img src="screenshots/event_details_screen.png" alt="Event Details Screen 2" width="200">
+  <img src="screenshots/event_details_screen_book.png" alt="Event Details Screen Booking" width="200">
+</p>
 
 ### Booking Confirmation Screen
-<img src="screenshots/booking_confirmation_screen.png" alt="Booking Confirmation Screen" width="100">
+<p align="center">
+  <img src="screenshots/booking_confirmation_screen.png" alt="Booking Confirmation Screen 1" width="200">
+  <img src="screenshots/booking_confirmation_screen_2.png" alt="Booking Confirmation Screen 2" width="200">
+  <img src="screenshots/booking_confirmation_screen_reciept.png" alt="Booking Confirmation Screen Reciept" width="200">
+  <img src="screenshots/booking_confirmation_screen_share.png" alt="Booking Confirmation Screen Share" width="200">
+ 
+</p>
 
 
 
