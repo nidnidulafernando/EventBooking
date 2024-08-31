@@ -15,15 +15,20 @@ Rise Tech Event Booking is a mobile application that allows users to browse, boo
 
 ## Download APK
 
-You can download the latest version of the APK [here](https://drive.google.com/file/d/1YgCUrDAP6Adfm9oc4ZCuMJst0JL28cfN/view?usp=sharing).
-
+You can download the latest version of the APK [here](https://drive.google.com/drive/folders/1CWR3C2RnT5SwbhdqeO-YYFoxQL95Vs5W?usp=sharing).
 ## Screenshots
 
 ### Home Screen
+
+<p align="center">
 <img src="screenshots/home_screen.png" alt="Home Screen" width="200">
+</p>
 
 ### Home Screen Filter
+
+<p align="center">
 <img src="screenshots/home_screen_filter.png" alt="Home Screen Filter" width="200">
+</p>
 
 ### Event Details Screen
 
